@@ -1,6 +1,6 @@
 {
   "name": "locster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description":
     "Persistent cache with localStorage inspired API and deep object querying built for Node.",
   "repository": {
