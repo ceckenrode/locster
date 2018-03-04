@@ -8,7 +8,7 @@
     "url": "https://github.com/ceckenrode/locster.git"
   },
   "authors": ["Christian Eckenrode <christian@develop.io>"],
-  "main": "dist/local-cache.js",
+  "main": "dist/locster.js",
   "scripts": {
     "build": "microbundle -f cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
