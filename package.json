@@ -1,0 +1,25 @@
+{
+  "name": "locster",
+  "version": "1.0.0",
+  "description": "Persistent cache with localStorage inspired API and deep object querying built for Node.",
+  "main": "dist/local-cache.js",
+  "scripts": {
+    "build": "microbundle -f cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "fs",
+    "localstorage",
+    "localcache"
+  ],
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.4.4"
+  },
+  "dependencies": {
+    "dlv": "^1.1.1",
+    "dset": "^1.0.1"
+  }
+}
